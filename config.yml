@@ -8,7 +8,7 @@ GoogleAnalytics: "UA-109863434-1"
 
 params:
   # Conference info
-  Name: "R / Pharma"
+  Name: "R / Pharma Phil"
   Description: "Using R to bring medicines to patients"
   Date: "August 15"
   Price: "Registration closes April 1st" # If your event is free, just comment this line
