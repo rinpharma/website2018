@@ -25,6 +25,7 @@ params:
     - speakers
     # call4papers
     - location
+    - hotel
     #- schedule
     - sponsors
     #- governance
@@ -34,6 +35,7 @@ params:
   Titles:
     about: "About"
     call4papers: "Call for papers"
+    hotel: "Hotel"
     location: "Location"
     speakers: "Keynotes"
     schedule: "Schedule"
