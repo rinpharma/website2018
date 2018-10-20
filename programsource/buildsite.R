@@ -136,7 +136,7 @@ cat("\n")
 
 cat("## Wednesday
 
-This is the shortened schedule, please go to [the Full Schedule](http://rinpharma.com/program/schedule.html) for more detailed information.
+This is the shortened schedule, please go to [the Full Schedule](https://rinpharma.github.io/website2018/program/schedule.html) for more detailed information.
 
 ")
   # day 1
@@ -156,7 +156,7 @@ This is the shortened schedule, please go to [the Full Schedule](http://rinpharm
 
 ## Thursday
 
-This is the shortened schedule, please go to [the Full Schedule](http://rinpharma.com/program/schedule.html) for more detailed information.
+This is the shortened schedule, please go to [the Full Schedule](https://rinpharma.github.io/website2018/program/schedule.html) for more detailed information.
 
 ")
 

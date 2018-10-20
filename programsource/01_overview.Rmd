@@ -334,7 +334,7 @@
 
 ## Wednesday
 
-This is the shortened schedule, please go to [the Full Schedule](http://rinpharma.com/program/schedule.html) for more detailed information.
+This is the shortened schedule, please go to [the Full Schedule](https://rinpharma.github.io/website2018/program/schedule.html) for more detailed information.
 
 | When | What | Slides | 
 |----|----|----| 
@@ -372,7 +372,7 @@ This is the shortened schedule, please go to [the Full Schedule](http://rinpharm
 
 ## Thursday
 
-This is the shortened schedule, please go to [the Full Schedule](http://rinpharma.com/program/schedule.html) for more detailed information.
+This is the shortened schedule, please go to [the Full Schedule](https://rinpharma.github.io/website2018/program/schedule.html) for more detailed information.
 
 * **07:30 - 09:15** _Registration_  
 * **08:00 - 09:00** _Interactive data visualization with R, plotly, and dashR (Workshop)_  
